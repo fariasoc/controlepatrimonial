@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "892924418606",
+    "project_id": "controlepatrimonial-19598",
+    "storage_bucket": "controlepatrimonial-19598.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892924418606:android:8c002e89be59d731f3ddbf",
+        "android_client_info": {
+          "package_name": "com.controlepatrimonial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892924418606-8rn4eo4fjkafvcphqp89g895fj52lj46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-5hN_azLxAAc3Mmdd0KiFCxjzKc1LsOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892924418606-8rn4eo4fjkafvcphqp89g895fj52lj46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
