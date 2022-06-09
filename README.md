@@ -1,0 +1,29 @@
+## Controle Patrimonial
+
+- expo install expo-font @expo-google-fonts/inter
+- yarn add @gorhom/bottom-sheet@^4
+- yarn add @react-native-firebase/app
+- yarn add @react-native-firebase/firestore
+- yarn add @react-native-firebase/auth
+- yarn add @react-navigation/bottom-tabs
+- yarn add @react-navigation/native
+- yarn add @react-navigation/native-stack
+- yarn add  @rneui/base @rneui/themed
+- expo install expo-app-loading
+- expo install expo-print
+- expo install expo-sharing
+- expo install expo-updates
+- yarn add lottie-react-native
+- yarn add react-native-gesture-handler
+- yarn add react-native-iphone-x-helper
+- yarn add react-native-reanimated
+- yarn add react-native-safe-area-context
+- yarn add react-native-screens
+- yarn add react-native-svg
+- yarn add styled-components
+- yarn add victory-native
+- yarn add @types/react -D 
+- yarn add @types/react-native -D
+- yarn add @types/styled-components-react-native -D
+- yarn add babel-plugin-module-resolver -D
+- yarn add typescript -D
